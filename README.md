@@ -1,2 +1,2 @@
 # JomarGallery
-Jomar Gallery
+Jomar Gallery Android App for MIT App Inventor
